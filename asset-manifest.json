@@ -1,20 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.92e66ae2.chunk.css",
-    "main.js": "/static/js/main.198f923b.chunk.js",
-    "main.js.map": "/static/js/main.198f923b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d0ded42b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d0ded42b.js.map",
-    "static/js/2.d9caf204.chunk.js": "/static/js/2.d9caf204.chunk.js",
-    "static/js/2.d9caf204.chunk.js.map": "/static/js/2.d9caf204.chunk.js.map",
+    "main.css": "/static/css/main.bc0b5e40.chunk.css",
+    "main.js": "/static/js/main.0df01267.chunk.js",
+    "main.js.map": "/static/js/main.0df01267.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.476765b7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.476765b7.js.map",
+    "static/js/2.e71901a2.chunk.js": "/static/js/2.e71901a2.chunk.js",
+    "static/js/2.e71901a2.chunk.js.map": "/static/js/2.e71901a2.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.92e66ae2.chunk.css.map": "/static/css/main.92e66ae2.chunk.css.map",
-    "static/js/2.d9caf204.chunk.js.LICENSE.txt": "/static/js/2.d9caf204.chunk.js.LICENSE.txt",
+    "static/css/main.bc0b5e40.chunk.css.map": "/static/css/main.bc0b5e40.chunk.css.map",
+    "static/js/2.e71901a2.chunk.js.LICENSE.txt": "/static/js/2.e71901a2.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/AkiraExpanded.51985533.otf",
+    "static/media/advancedlogo.a11c36e5.png": "/static/media/advancedlogo.a11c36e5.png",
+    "static/media/avaxlogo.30dfa545.png": "/static/media/avaxlogo.30dfa545.png",
     "static/media/background1.169bca43.png": "/static/media/background1.169bca43.png",
     "static/media/background2.4caf927d.png": "/static/media/background2.4caf927d.png",
     "static/media/background3.f14869db.png": "/static/media/background3.f14869db.png",
+    "static/media/beginnerlogo.ebd3cb2c.png": "/static/media/beginnerlogo.ebd3cb2c.png",
     "static/media/chart.e6464046.png": "/static/media/chart.e6464046.png",
+    "static/media/intermediatelogo.e4244bfa.png": "/static/media/intermediatelogo.e4244bfa.png",
+    "static/media/olympianlogo.6d926e97.png": "/static/media/olympianlogo.6d926e97.png",
+    "static/media/prologo.ddc5c0d7.png": "/static/media/prologo.ddc5c0d7.png",
     "static/media/rotatingif.bab78d97.gif": "/static/media/rotatingif.bab78d97.gif",
     "static/media/skigif.dcc5c4d3.gif": "/static/media/skigif.dcc5c4d3.gif",
     "static/media/skiteamfulllogo.a04c1547.png": "/static/media/skiteamfulllogo.a04c1547.png",
@@ -23,9 +29,9 @@
     "static/media/wsb.b5a74781.png": "/static/media/wsb.b5a74781.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d0ded42b.js",
-    "static/js/2.d9caf204.chunk.js",
-    "static/css/main.92e66ae2.chunk.css",
-    "static/js/main.198f923b.chunk.js"
+    "static/js/runtime-main.476765b7.js",
+    "static/js/2.e71901a2.chunk.js",
+    "static/css/main.bc0b5e40.chunk.css",
+    "static/js/main.0df01267.chunk.js"
   ]
 }
